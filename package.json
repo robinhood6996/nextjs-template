@@ -15,9 +15,16 @@
     "prettier": "prettier --write ."
   },
   "dependencies": {
+    "@redux-devtools/extension": "^3.2.3",
+    "bootstrap": "^5.2.1",
     "next": "12.3.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "18.2.0",
+    "react-redux": "^8.0.4",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.1",
+    "redux-toolkit": "^1.1.2"
   },
   "devDependencies": {
     "eslint": "8.24.0",
