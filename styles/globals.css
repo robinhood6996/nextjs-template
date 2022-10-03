@@ -1,3 +1,6 @@
+@import url('../components/posts/Posts.module.css');
+@import url('https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css');
+
 html,
 body {
   padding: 0;

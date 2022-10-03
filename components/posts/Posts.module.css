@@ -1,0 +1,16 @@
+/* .postcard {
+    background: #ededed;
+    padding: 10px 20px;
+    height: 100%;
+    min-height: 265px;
+    border-radius: 10px;
+} */
+
+.posts {
+    gap: 38px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    vertical-align: middle;
+    row-gap: 25px;
+}
