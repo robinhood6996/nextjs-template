@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import Posts from '../components/Posts/index';
 import styles from '../styles/Home.module.css';
 
 export default function Home() {
@@ -12,6 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1>Typescript Template</h1>
+        <Posts />
       </main>
     </div>
   );
